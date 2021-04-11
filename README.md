@@ -59,7 +59,7 @@ content pages. How about changing this very file to *fix the typo*. How about ch
 
 Content files are found in `./content/`. Unless otherwise specified, files
 are located at the same relative location as the url, in our case
-`path\Personal-Page\README.md`.
+`path/Personal-Page/README.md`.
 
 Change and save this file.. Notice what happened in your terminal.
 
