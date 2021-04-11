@@ -3,5 +3,5 @@
 ### Essaie de <b>Hugo</b> 
 
 > Etape pour le deployer en local
->> Telecharger hugo via ce 
+ 1-Telecharger hugo via ce 
 
