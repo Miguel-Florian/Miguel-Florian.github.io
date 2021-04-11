@@ -71,9 +71,4 @@ Change and save this file.. Notice what happened in your terminal.
 
 Refresh the browser and observe that the typo is now fixed.
 
-Notice how quick that was. Try to refresh the site before it's finished building.. I double dare you.
-Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.
-
-## Step 4. Have fun
-
-The best way to learn something is to play with it.
+Notice how quick that was. Try to refresh the site before it's finished building..
