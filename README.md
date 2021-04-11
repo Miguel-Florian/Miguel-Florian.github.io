@@ -4,5 +4,5 @@
 
 > Etape pour le deployer en local
 
->> Telecharger hugo via ce 
+> > Telecharger hugo via ce 
 
