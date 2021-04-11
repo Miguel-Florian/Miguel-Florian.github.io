@@ -51,7 +51,7 @@ Now we are going to run hugo again, but this time with hugo in watch mode.
     > 0 tags index created
     > in 27 ms
     > Web Server is available at http://localhost:1313
-    > Watching for changes in /Users/spf13/Code/hugo/docs/content
+    > Watching for changes in /Users/Personal-Page/content
     > Press ctrl+c to stop
 
 
