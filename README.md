@@ -29,8 +29,9 @@ Follow the following steps:
 Corresponding pseudo commands:
 
     git clone Miguel-Florian/Personal-Page
-    cd hugo
-    /path/to/where/you/installed/hugo server --source=./docs
+    cd hugo/path/to/where/you/installed/hugo server --source=./docs
+    or cd hugo/path/to/where/you/installed/hugo
+    hugo  serve
     > 29 pages created
     > 0 tags index created
     > in 27 ms
