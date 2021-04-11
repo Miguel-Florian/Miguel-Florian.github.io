@@ -21,14 +21,14 @@ you are reading right now.
 
 Follow the following steps:
 
- 1. Clone the [hugo repository](http://github.com/spf13/hugo)
+ 1. Clone the [hugo repository](https://github.com/Miguel-Florian/Personal-Page.git)
  2. Go into the repo
  3. Run hugo in server mode and build the docs
  4. Open your browser to http://localhost:1313
 
 Corresponding pseudo commands:
 
-    git clone https://github.com/spf13/hugo
+    git clone Miguel-Florian/Personal-Page
     cd hugo
     /path/to/where/you/installed/hugo server --source=./docs
     > 29 pages created
@@ -59,7 +59,7 @@ content pages. How about changing this very file to *fix the typo*. How about ch
 
 Content files are found in `docs/content/`. Unless otherwise specified, files
 are located at the same relative location as the url, in our case
-`docs/content/overview/quickstart.md`.
+`C:\Hugo\Sites\Personal-Page\README.md`.
 
 Change and save this file.. Notice what happened in your terminal.
 
