@@ -1,10 +1,12 @@
 +++
-title = "A propos de Miguel"
-slug = "about"
+title = "About"
+description = "Hugo, the world's fastest framework for building websites"
+date = "2019-02-28"
+aliases = ["about-us", "about-hugo", "contact"]
+author = "Hugo Authors"
 +++
 
 Actuellement étudiant à l'université de Douala en filière Informatique
-
 
 Voici en bref mon parcourt et mes certifications professionnelles:
 
@@ -13,12 +15,10 @@ Voici en bref mon parcourt et mes certifications professionnelles:
 * Certifié en marketing numeriques chez [Google](https://google.com)
 * Obtention d'une licence académique en Informatique à l'[université de Douala](https://www.univ-douala.cm/)
 
-
 ## Connaissance de langage et de quelques framework
 
 * **Concernant le Front-end :**
 
-> * [Go](http://golang.org/)
 > * [Html 5](http://spf13.com/)
 > * [CSS  3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 > * [Boostrap](https://www.bootstrapcdn.com/)
@@ -28,6 +28,7 @@ Voici en bref mon parcourt et mes certifications professionnelles:
 
 * **Concernant le Back-end:**
 
+> * [Go](http://golang.org/)
 > * [PHP](https://www.php.net/)
 > * [Laravel](https://laravel.com/)
 > * [Java](https://www.java.com/fr/)
