@@ -1,5 +1,5 @@
 +++
-title = "Projects"
+title = "Projets"
 slug = "projects"
 +++
 
@@ -7,6 +7,10 @@ slug = "projects"
 Voici quelques uns de mes projets !
 
 Revenez plus tard pour plus de précision.
+
+## Developpement d'application Web
+
+* [Esoa Academy](https://#)
 
 ## Developement de sites
 
