@@ -1,5 +1,5 @@
 baseURL = "https://www.migflor.com"
-title = "Miguel Florian Noumowe"
+title = "Miguel Florian"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,7 +12,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Miguel Florian"
+author = "Miguel Florian Noumowe"
 description = "Miguel Noumowe personal website"
 keywords = "blog,developer,personal"
 info = "Web & Mobile Developper and UI/UX Designer"
