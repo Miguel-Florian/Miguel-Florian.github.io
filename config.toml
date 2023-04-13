@@ -102,7 +102,7 @@ author = "authors"
 [[params.social]]
 name = "Github"
 icon = "fa fa-github"
-weight = 1
+weight = 2
 url = "https://github.com/Miguel-Florian"
 
 
@@ -115,13 +115,13 @@ url = "https://twitter.com/MiguelFlorian19"
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
-weight = 3
+weight = 2
 url = "https://www.linkedin.com/in/miguel-florian-b5bb001b0/"
 
 [[params.social]]
 name = "Dribbble"
 icon = "fa fa-dribbble "
-weight = 3
+weight = 2
 url = "https://dribbble.com/Miguel-Noumowe"
 
 
